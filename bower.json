@@ -1,0 +1,14 @@
+{
+  "name": "mad9013-final",
+  "homepage": "https://naze0006.github.io/mad9013-final",
+  "authors": [
+    "Shirin Nazemoroaya <naze0006@algonquinlive.com>"
+  ],
+  "description": "Final Project",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "4.0.0-alpha"
+  }
+}
