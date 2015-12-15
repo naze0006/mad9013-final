@@ -22,15 +22,7 @@ body{
 }
 
 body {
-    background-image: url(../img/1.png);
-    background-repeat: no-repeat;
-    background-position:center left;
-    -o-background-size: cover;
-    background-size: 400px;
-    z-index: -99;*/
     font-family: 'Roboto', sans-serif;
-    
-
 }
 
 .container { background: ; }
@@ -67,6 +59,7 @@ body {
 
 .profile-pic{
     border: 6px solid white;
+    -webkit-box-shadow: 0 0 3px 3px grey;
     box-shadow: 0 0 3px 3px grey;
     margin: 40px 0;
 	-webkit-transition: all 0.3s;
@@ -164,7 +157,6 @@ body {
   margin-bottom: 30px;
   background-color: #eeeeee;
   -webkit-border-radius: 6px;
-     -moz-border-radius: 6px;
           border-radius: 6px;
 }
 
